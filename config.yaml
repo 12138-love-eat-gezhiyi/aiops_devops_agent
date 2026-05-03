@@ -1,0 +1,6 @@
+service_name: myservice
+url: http://localhost:8000
+cpu_threshold: 75
+memory_threshold: 75
+log_path: logs/app.log
+mode: safe
